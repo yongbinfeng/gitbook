@@ -8,9 +8,10 @@ description: 'Dynamic Programming, Knapsack, Top K'
 
 kind of similar to knapsack problem but not exactly the same:
 
- $$dp[i][j]$$ is the maximum distance the car could arrive. 
-
-Dp\[i\]\[j\]=max\(dp\[i-1\]\[j\], dp\[i-1\]\[j-1\]+gas\[i\]\) if dp\[i-1\]\[j-1\]&gt;=distance\[i\]. otherwise dp\[i\]\[j\]=dp\[i-1\]\[j\].
+ - $$dp[i][j]$$ is the maximum distance the car could arrive. 
+ - Relation:
+ -- $$dp[i][j]=max(dp[i-1][j], dp[i-1][j-1]+stations[i][1])$$ if $$dp[i-1][j-1]\leq stations[i][0]$$. 
+ -- Otherwise $$dp[i][j]=dp[i-1][j]$$.
 
 ```text
 
