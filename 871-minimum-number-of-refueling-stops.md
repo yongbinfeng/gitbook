@@ -11,9 +11,9 @@ kind of similar to knapsack problem but not exactly the same:
 - $$dp[i][j]$$ is the maximum distance the car could arrive. 
 - Relation:
   - If $$dp[i-1][j-1]\leq stations[i][0]$$:
-     $$dp[i][j]=max(dp[i-1][j], dp[i-1][j-1]+stations[i][1])$$
+  $$dp[i][j]=max(dp[i-1][j], dp[i-1][j-1]+stations[i][1])$$
   - Otherwise: 
-     $$dp[i][j]=dp[i-1][j]$$.
+  $$dp[i][j]=dp[i-1][j]$$.
 - The final result is to find the minimum j where $$dp[N][j]>=target$$.
 
 ```cpp
@@ -47,7 +47,7 @@ kind of similar to knapsack problem but not exactly the same:
 ```
 Space complexity: $$O(N^2)$$. Time complexity: $$O(N^{2})$$
 
-##### DP Solution: reduce dimension
+#### DP Solution: reduce dimension
 
 Space complexity can be reduced to 1D by inverting the $$j$$ calculation from $$i$$ to $$0$$. (since $$dp[i][j]$$ depends on $$dp[i-1][j-1]$$, we need to modify $$dp[j]$$ first before $$dp[j-1]$$. 
 
@@ -111,5 +111,5 @@ Second way is to use a priorityQueue:
         return -1;
     }
 ```
-Space complexity: $$O(N)$$. Time complexity: $$O(N\lgN)$$
+Space complexity: $$O(N)$$. Time complexity: $$O(N \lg N)$$
 
