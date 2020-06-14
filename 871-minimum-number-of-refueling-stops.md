@@ -4,6 +4,8 @@ description: 'Dynamic Programming, Knapsack, Top K'
 
 # 871 Minimum Number of Refueling Stops
 
+[Problem](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+
 #### DP Solution:
 
 kind of similar to knapsack problem but not exactly the same:
