@@ -1,5 +1,5 @@
 ---
-description: 'Dynamic Programming, Knapsack, Top K'
+description: 'Dynamic Programming, Knapsack, Top K, MPRT'
 ---
 
 # 871 Minimum Number of Refueling Stops
@@ -79,7 +79,7 @@ int minRefuelStops(int target, int startFuel, vector<vector<int>>& stations) {
     return -1;
 }
 ```
-Space complexity $$O(N)$$. Time complexity: $$O(N^2)$$
+Space complexity: $$O(N)$$. Time complexity: $$O(N^2)$$
 
 #### PriorityQueue Solution:
 Second way is to use a priorityQueue: 
