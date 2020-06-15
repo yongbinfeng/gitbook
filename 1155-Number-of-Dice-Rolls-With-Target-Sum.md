@@ -36,7 +36,10 @@ Space complexity: $$O(d*target)$$. Time complexity $$O(d*f*target)$$.
 #### DP reduced dimension
 DP can be reduced from 2D to 1D:
   $$dp[j]$$ represents the number of different ways with sum equals to j.
-And we could loop j from target to 0, since dp[j] gets modified first before dp[j-k], similar to previous approaches.
+
+And we could loop j from target to 0, since $$dp[j]$$ gets modified first before $$dp[j-k]$$, similar to previous approaches.
+
+**Remember** also to set $$dp[j]$$ to zero before calculating, since it is counting and $$dp[j]$$ won't get explicitly reset.
 
 ```cpp
 int numRollsToTarget(int d, int f, int target) {
