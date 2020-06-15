@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Algorithms](README.md)
+* [494 Target Sum](494-Target-Sum.md)
 * [688 Knight Probability in Chessboard](688-Knight-Probability-in-Chessboard.md)
 * [871 Minimum Number of Refueling Stops](871-minimum-number-of-refueling-stops.md)
 * [1155 Number of Dice Rolls With Target Sum](1155-number-of-dice-rolls-with-target-sum.md)
