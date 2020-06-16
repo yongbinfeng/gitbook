@@ -2,6 +2,7 @@
 
 * [Algorithms](README.md)
 * [377 Combination Sum IV](377-Combination-Sum-IV.md)
+* [416 Partition Equal Subset Sum](416-Partition-Equal-Subset-Sum.md)
 * [494 Target Sum](494-Target-Sum.md)
 * [688 Knight Probability in Chessboard](688-Knight-Probability-in-Chessboard.md)
 * [871 Minimum Number of Refueling Stops](871-minimum-number-of-refueling-stops.md)
