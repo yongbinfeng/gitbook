@@ -4,7 +4,7 @@ description: Summary of algorithm studies and thoughts on LeetCode problems
 
 # Algorithms
 
-#### Short Names:
+## Short Names:
 
 Summary of some short names used in contents
 
@@ -12,3 +12,4 @@ Summary of some short names used in contents
 * FSP: Finite state problems
 * LIS: Longest increasing subsequence
 * MPRT: Maximum/Minimum paths to reach a target: $$dp[i]=max(dp[path1\_to\_i], dp[path2\_to\_i], ..., dp[pathn\_to\_i])$$
+
