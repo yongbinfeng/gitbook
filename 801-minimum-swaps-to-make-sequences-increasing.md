@@ -12,11 +12,22 @@ This is a very interesting problem. Similar to [978. Longest Turbulent Subarray]
 
 The first time i saw this problem, i mistakenly thought it was a two-pointer problem. My bad.
 
-For each position $$i$$, there are two states: swap $$A[i]$$ and $$B[i]$$ or NOT swap. So we define -$$dp[i][0]$$ is the minimum number of swaps to make $$A[i]$$ and $$B[i]$$ strictly increasing, while we do **NOT** swap $$A[i]$$ and $$B[i]$$; -$$dp[i][1]$$ is the minimum number of swaps to make $$A[i]$$ and $$B[i]$$ strictly increasing, where we do swap $$A[i]$$ and $$B[i]$$;
+For each position $$i$$, there are two states: 
+  > swap $$A[i]$$ and $$B[i]$$ or NOT swap. 
 
-$$dp[i][0-1]$$ depends on the relations of $$A[i]$$ and $$B[i]$$. We define: -`isBothIncreasing = (A[i-1]<A[i]) && (B[i-1]<B[i])`: A and B are increasing from $$i-1$$ to $$i$$; -`isChangedIncreasing = (A[i-1]<B[i]) && (B[i-1]<A[i])`: after swapping, A and B will be increasing from $$i-1$$ to $$i$$;
+So we define:
+- $$dp[i][0]$$ is the minimum number of swaps to make $$A[i]$$ and $$B[i]$$ strictly increasing, while we do **NOT** swap $$A[i]$$ and $$B[i]$$; 
+- $$dp[i][1]$$ is the minimum number of swaps to make $$A[i]$$ and $$B[i]$$ strictly increasing, where we do swap $$A[i]$$ and $$B[i]$$;
 
-Since the problem states 'it is guaranteed that the given input always makes it possible', we have `isBothIncreasing || isChangedIncreasing=1`. Otherwise it would be impossible.
+$$dp[i][0-1]$$ depends on the relations of $$A[i]$$ and $$B[i]$$. We define: 
+- `isBothIncreasing = (A[i-1]<A[i]) && (B[i-1]<B[i])`: A and B are increasing from $$i-1$$ to $$i$$; 
+- `isChangedIncreasing = (A[i-1]<B[i]) && (B[i-1]<A[i])`: after swapping, A and B will be increasing from $$i-1$$ to $$i$$;
+
+Since the problem states 'it is guaranteed that the given input always makes it possible', we have 
+
+`isBothIncreasing || isChangedIncreasing=1`. 
+
+Otherwise it would be impossible.
 
 Then the $$dp$$ relations would be pretty clear. Explained in the code below.
 
