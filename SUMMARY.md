@@ -5,6 +5,7 @@
 * [416 Partition Equal Subset Sum](416-partition-equal-subset-sum.md)
 * [494 Target Sum](494-target-sum.md)
 * [688 Knight Probability in Chessboard](688-knight-probability-in-chessboard.md)
+* [801 Minimum Swaps To Make Sequences Increasing](801-Minimum-Swaps-To-Make-Sequences-Increasing.md)
 * [808 Soup Servings](808-soup-servings.md)
 * [871 Minimum Number of Refueling Stops](871-minimum-number-of-refueling-stops.md)
 * [935 Knight Dialer](935-knight-dialer.md)
