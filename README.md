@@ -9,13 +9,13 @@ description: Summary of algorithm studies and thoughts on LeetCode problems
 GitBook: [https://yongbinfeng.gitbook.io/algorithms/](https://yongbinfeng.gitbook.io/algorithms/)
 
 These are some notes i am making while learning algorithms and working on leetcode problems.
-i realized it might help other people a bit, so i made it public, though i understand 
+i realized it might help other people a bit as well, so i made it public, though i understand 
 there are already all kinds of leetcode solutions and summaries. 
 
 In each page, i put the main points and thoughts there, with the original and optimized code. At the bottom, 
-there are some highlighted **notes** where it is easy for me making mistakes.
+there are some highlighted **notes** where i listed the points that i usually make mistakes.
 
-My goal is to have about $$O(100)$$ problems here, covering aspects of different types ususally examined during interview.
+My current goal and hope is to have about $$O(100)$$ problems here, covering aspects of different types ususally examined during interview.
 
 Github repo link:
 
