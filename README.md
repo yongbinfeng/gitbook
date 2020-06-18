@@ -12,6 +12,11 @@ These are some notes i am making while learning algorithms and working on leetco
 i realized it might help other people a bit, so i made it public, though i understand 
 there are already all kinds of leetcode solutions and summaries. 
 
+In each page, i put the main points and thoughts there, with the original and optimized code. At the bottom, 
+there are some highlighted **notes** where it is easy for me making mistakes.
+
+My goal is to have about $$O(100)$$ problems here, covering aspects of different types ususally examined during interview.
+
 Github repo link:
 
 [https://github.com/yongbinfeng/gitbook](https://github.com/yongbinfeng/gitbook)
