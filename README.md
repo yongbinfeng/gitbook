@@ -6,12 +6,17 @@ description: Summary of algorithm studies and thoughts on LeetCode problems
 
 ## Miscellaneous
 
+GitBook: [https://yongbinfeng.gitbook.io/algorithms/](https://yongbinfeng.gitbook.io/algorithms/)
+
 These are some notes i am making while learning algorithms and working on leetcode problems.
-i realized it might help other people a bit, so i made it public, with the github repo link:
+i realized it might help other people a bit, so i made it public, though i understand 
+there are already all kinds of leetcode solutions and summaries. 
+
+Github repo link:
 
 [https://github.com/yongbinfeng/gitbook](https://github.com/yongbinfeng/gitbook)
 
-Issues and PRs are more than welcome :)
+Issues and PRs are of course more than welcome :)
 
 ## Short Names:
 
