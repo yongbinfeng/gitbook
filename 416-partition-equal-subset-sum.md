@@ -74,7 +74,7 @@ bool canPartition(vector<int>& nums) {
 }
 ```
 
-**Notes:**
+## Notes:
 
 * There are ways to further reduce the space complexity using bits. But i personally prefer to stick to the standard method, more
 

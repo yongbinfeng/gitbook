@@ -1,5 +1,5 @@
 ---
-description: 'Dynamic Programming, DW, Grid'
+description: 'Dynamic Programming, DW, FSP, Grid'
 ---
 
 # 935 Knight Dialer
@@ -109,7 +109,7 @@ int knightDialer(int N) {
 
 Space complexity is $$O(1)$$. Time complexity: $$O(N)$$.
 
-**Notes:**
+## Notes:
 
 * In the $$O(1)$$ case, remember to set $$dp$$ to 0 since it is counting. \(standard in DW problems\).
 * In the discussion section, there is the solution with $$O(\lg N)$$ complexity using adjacent matrix.

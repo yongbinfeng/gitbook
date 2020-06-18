@@ -67,6 +67,6 @@ int findPaths(int m, int n, int N, int i, int j) {
 }
 ```
 
-**Notes:**
+## Notes:
 - Same as usual DW, remember to reset $$dp[p][q]$$ to 0 at the begining of counting;
 - The running time and space needed seem a lot in the leetcode submission result. Might be interesting to understand why.

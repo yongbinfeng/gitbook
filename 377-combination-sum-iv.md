@@ -72,7 +72,7 @@ int combinationSum4(vector<int>& nums, int target) {
 
 Space complexity is $$O(target)$$. Time complexity is $$O(target*N)$$. Both have been reduced.
 
-**Notes:**
+## Notes:
 
 * This looks pretty similar to the reduced loop of full knapsack, except the loop over target is done before loop over nums. 
 

@@ -54,7 +54,7 @@ double soupServings(int N) {
 }
 ```
 
-**Notes:**
+## Notes:
 
 * The fact is for $$N>5000$$, the result is always 1.. So when one sees N could go as much as $$10^{9}$$, it does not necessarily mean $$O(N^2)$$ space/time complexity is not allowed..
 

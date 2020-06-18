@@ -89,7 +89,7 @@ bool isInside(int i, int j, int N){
 
 Space complexity: $$O(N^{2})$$. Time complexity: $$O(K*N^2)$$.
 
-**Notes:**
+## Notes:
 
 * Don't forget to set $$dp[i][j]$$ to 0 at the beginning of the moves. \(standar procedure in DW.\)
 

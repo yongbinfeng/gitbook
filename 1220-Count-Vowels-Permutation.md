@@ -99,6 +99,6 @@ int countVowelPermutation(int n) {
 }
 ```
 
-**Notes:**
+## Notes:
 - Now i realized [Problem 935 Knight Dialer](https://leetcode.com/problems/knight-dialer/) can also be treated as a FSP, if considering the numbers as different states.
 - There are $$O(\log N)$$ solutions in dicussion section using Graph theorems. Might be interesting to take a look.

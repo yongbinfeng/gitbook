@@ -61,7 +61,7 @@ int findNumberOfLIS(vector<int>& nums) {
 }
 ```
 
-**Notes:**
+## Notes:
 
 * $$dp$$ and $$count$$ should be initialized with 1s.
 

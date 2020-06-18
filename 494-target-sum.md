@@ -84,7 +84,7 @@ int findTargetSumWays(vector<int>& nums, int S) {
 
 Space complexity: $$O(target)$$. Time complexity: $$O(target*N)$$.
 
-**Notes:**
+## Notes:
 
 * Understand better the boundary conditions: sometimes i tend to write $$dp[0]=0$$ at the beginning of each $$i$$ loop, but this is not true, as the members of nums\[i\] could be zero.
 

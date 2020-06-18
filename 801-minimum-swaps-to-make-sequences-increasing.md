@@ -115,7 +115,7 @@ int minSwap(vector<int>& A, vector<int>& B) {
 }
 ```
 
-**Notes:**
+## Notes:
 
 * This problem can be reviewed with the [maximum turbulent array](https://leetcode.com/problems/longest-turbulent-subarray/) and the stocks problems together.
 
