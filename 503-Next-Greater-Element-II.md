@@ -1,5 +1,5 @@
 ---
-description: 'Stack, Circular'
+description: 'Stack, Circular Array'
 ---
 
 # 503. Next Greater Element II
