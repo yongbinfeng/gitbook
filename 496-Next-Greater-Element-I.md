@@ -34,7 +34,7 @@ vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
 }
 ```
 
-Time complexity is $$O(n1*n2)$$. Space complexity $O(n1)$$.
+Time complexity is $$O(n1*n2)$$. Space complexity $$O(n1)$$.
 
 ## Stack
 
