@@ -13,6 +13,7 @@
 * [808 Soup Servings](808-soup-servings.md)
 * [871 Minimum Number of Refueling Stops](871-minimum-number-of-refueling-stops.md)
 * [935 Knight Dialer](935-knight-dialer.md)
+* [1130 Minimum Cost Tree From Leaf Values](1130-Minimum-Cost-Tree-From-Leaf-Values.md)
 * [1155 Number of Dice Rolls With Target Sum](1155-number-of-dice-rolls-with-target-sum.md)
 * [1220 Count Vowels Permutation](1220-Count-Vowels-Permutation.md)
 * [1269 Number of Ways to Stay in the Same Place After Some Steps](1269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps.md)
