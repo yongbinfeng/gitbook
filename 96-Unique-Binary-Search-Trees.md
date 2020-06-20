@@ -1,5 +1,5 @@
 ---
-description: 'Dynamic Programming, BST, Catalan number'
+description: 'Dynamic Programming, Binary Tree, BST, Catalan number'
 ---
 
 # 96. Unique Binary Search Trees
