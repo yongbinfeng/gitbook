@@ -15,9 +15,11 @@ When $$n=3$$, the root could be 1,2,3:
 - if root is 3; then $$[1,2]$$ must be on the left side, and the number of ways is the same as $$n=2$$;
 
 One more example: when $$n=5$$,
-- if root is 1, then $$[2,5]$$ must be on the right side, and the number of ways is the same as $$n=4$$;
-- if root is 2, then $$[3,5]$$ must be on the right side, 1 must be on the left side;
+- if root is 1, then $$[2,5]$$ must be on the right side, and the number of ways is the same as $$n=4$$: $$ways(n=4)*ways(n=0)$$;
+- if root is 2, then $$[3,5]$$ must be on the right side, 1 must be on the left side, number of ways: $$ways(n=3)*ways(n=1)$$;
 - if root is 3, then $$[1,2]$$ must be on the left side, $$[4,5]$$ must be on the right side, the number of ways is $$ways(n=2)*ways(n=2)$$;
+- if root is 4, then $$[1,3]$$ must on on the left side, 5 on the right side, the numer of ways is $$ways(n=3)*ways(n=1)$$;
+- if root is 5, then number of ways: $$ways(n=4)*ways(n=0)$$;
 
 Now we have figured out: for n:
 - $$dp[i]$$ is the number of unique BSTs with number 1,2,3,...i;
@@ -41,6 +43,6 @@ int numTrees(int n) {
     return dp[n];
 }
 ```
-This is actually *catalan number*.
+This is actually **catalan number**.
 
 Space complexity is $$O(N)$$; Time complexity is $$O(N^2)$$.
