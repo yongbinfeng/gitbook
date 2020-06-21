@@ -10,6 +10,7 @@
 * [503 Next Greater Element II](503-Next-Greater-Element-II.md)
 * [546 Remove Boxes](546-Remove-Boxes.md)
 * [576 Out of Boundary Paths](576-Out-of-Boundary-Paths.md)
+* [647 Palindromic Substrings](647-Palindromic-Substrings.md)
 * [673 Number of Longest Increasing Subsequence](673-number-of-longest-increasing-subsequence.md)
 * [688 Knight Probability in Chessboard](688-knight-probability-in-chessboard.md)
 * [801 Minimum Swaps To Make Sequences Increasing](801-minimum-swaps-to-make-sequences-increasing.md)
