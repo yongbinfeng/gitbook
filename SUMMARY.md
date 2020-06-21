@@ -19,6 +19,7 @@
 * [1000 Minimum Cost to Merge Stones](1000-Minimum-Cost-to-Merge-Stones.md)
 * [1039 Minimum Score Triangulation of Polygon](1039-Minimum-Score-Triangulation-of-Polygon.md)
 * [1130 Minimum Cost Tree From Leaf Values](1130-Minimum-Cost-Tree-From-Leaf-Values.md)
+* [1143 Longest Common Subsequence](1143-Longest-Common-Subsequence.md)
 * [1155 Number of Dice Rolls With Target Sum](1155-number-of-dice-rolls-with-target-sum.md)
 * [1220 Count Vowels Permutation](1220-Count-Vowels-Permutation.md)
 * [1269 Number of Ways to Stay in the Same Place After Some Steps](1269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps.md)

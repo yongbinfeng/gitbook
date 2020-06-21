@@ -29,6 +29,7 @@ Summary of some short names used in contents
 
 * DW: Distinct ways: $$dp[i]=dp[path1]+dp[path2]+...+dp[pathn]$$ 
 * FSP: Finite state problems
+* LCS: Longest common subsequence
 * LIS: Longest increasing subsequence
 * MPRT: Maximum/Minimum paths to reach a target: $$dp[i]=max(dp[path1\_to\_i], dp[path2\_to\_i], ..., dp[pathn\_to\_i])$$
 
