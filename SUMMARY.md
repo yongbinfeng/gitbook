@@ -7,6 +7,7 @@
 * [494 Target Sum](494-target-sum.md)
 * [496 Next Greater Element I](496-Next-Greater-Element-I.md)
 * [503 Next Greater Element II](503-Next-Greater-Element-II.md)
+* [546 Remove Boxes](546-Remove-Boxes.md)
 * [576 Out of Boundary Paths](576-Out-of-Boundary-Paths.md)
 * [673 Number of Longest Increasing Subsequence](673-number-of-longest-increasing-subsequence.md)
 * [688 Knight Probability in Chessboard](688-knight-probability-in-chessboard.md)
