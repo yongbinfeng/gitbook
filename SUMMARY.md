@@ -2,6 +2,7 @@
 
 * [Algorithms](README.md)
 * [96 Unique Binary Search Trees](96-Unique-Binary-Search-Trees.md)
+* [312 Burst Balloons](312-Burst-Balloons.md)
 * [377 Combination Sum IV](377-combination-sum-iv.md)
 * [416 Partition Equal Subset Sum](416-partition-equal-subset-sum.md)
 * [494 Target Sum](494-target-sum.md)
