@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Algorithms](README.md)
+* [72 Edit Distance](72-Edit-Distance.md)
 * [96 Unique Binary Search Trees](96-Unique-Binary-Search-Trees.md)
 * [312 Burst Balloons](312-Burst-Balloons.md)
 * [377 Combination Sum IV](377-combination-sum-iv.md)
