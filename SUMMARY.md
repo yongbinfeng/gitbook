@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Algorithms](README.md)
+* [5 Longest Palindromic Substring](5-Longest-Palindromic-Substring.md)
 * [72 Edit Distance](72-Edit-Distance.md)
 * [96 Unique Binary Search Trees](96-Unique-Binary-Search-Trees.md)
 * [115 Distinct Subsequences](115-Distinct-Subsequences.md)
