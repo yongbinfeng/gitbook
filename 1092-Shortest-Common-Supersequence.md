@@ -1,5 +1,5 @@
 ---
-description: 'Dynamic Programming, String, LCS'
+description: 'Dynamic Programming, String, Subsequence, LCS'
 ---
 
 # 1092. Shortest Common Supersequence

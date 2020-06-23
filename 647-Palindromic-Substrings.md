@@ -1,5 +1,5 @@
 ---
-description: 'Dynamic Programming, String, Substring, Merge Interval'
+description: 'Dynamic Programming, String, Substring, Interval'
 ---
 
 # 647. Palindromic Substrings

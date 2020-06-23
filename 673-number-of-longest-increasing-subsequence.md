@@ -1,5 +1,5 @@
 ---
-description: 'Dynamic Programming, LIS, DW'
+description: 'Dynamic Programming, Subsequence, LIS, DW'
 ---
 
 # 673 Number of Longest Increasing Subsequence
