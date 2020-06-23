@@ -5,6 +5,8 @@
 * [72 Edit Distance](72-Edit-Distance.md)
 * [96 Unique Binary Search Trees](96-Unique-Binary-Search-Trees.md)
 * [115 Distinct Subsequences](115-Distinct-Subsequences.md)
+* [198 House Robber](198-House-Robber.md)
+* [213 House Robber II](213-House-Robber-II.md)
 * [312 Burst Balloons](312-Burst-Balloons.md)
 * [377 Combination Sum IV](377-combination-sum-iv.md)
 * [416 Partition Equal Subset Sum](416-partition-equal-subset-sum.md)
