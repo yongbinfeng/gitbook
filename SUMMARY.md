@@ -5,6 +5,7 @@
 * [72 Edit Distance](72-Edit-Distance.md)
 * [96 Unique Binary Search Trees](96-Unique-Binary-Search-Trees.md)
 * [115 Distinct Subsequences](115-Distinct-Subsequences.md)
+* [121 122 123 188 309 714 Stocks Problems.md](121-122-123-188-309-714-Stocks-Problems.md)
 * [198 House Robber](198-House-Robber.md)
 * [213 House Robber II](213-House-Robber-II.md)
 * [312 Burst Balloons](312-Burst-Balloons.md)
