@@ -38,4 +38,5 @@
     * [1269 Number of Ways to Stay in the Same Place After Some Steps](LeetCode/1269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps.md)
 
 * [Jian-Zhi-Offer Problems](Jian-Zhi-Offer/README.md)
+    * [03](Jian-Zhi-Offer/03.md)
 
