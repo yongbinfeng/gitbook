@@ -40,4 +40,5 @@
 * [Jian-Zhi-Offer Problems](Jian-Zhi-Offer/README.md)
     * [03 数组中重复的数字](Jian-Zhi-Offer/03.md)
     * [05 替换空格](Jian-Zhi-Offer/05.md)
+    * [06 从尾到头打印链表](Jian-Zhi-Offer/06.md)
 
