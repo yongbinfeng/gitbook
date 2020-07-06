@@ -38,5 +38,6 @@
     * [1269 Number of Ways to Stay in the Same Place After Some Steps](LeetCode/1269-Number-of-Ways-to-Stay-in-the-Same-Place-After-Some-Steps.md)
 
 * [Jian-Zhi-Offer Problems](Jian-Zhi-Offer/README.md)
-    * [03](Jian-Zhi-Offer/03.md)
+    * [03 数组中重复的数字](Jian-Zhi-Offer/03.md)
+    * [05 替换空格](Jian-Zhi-Offer/05.md)
 
