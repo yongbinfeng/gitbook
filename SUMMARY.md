@@ -4,6 +4,7 @@
 
 * [LeetCode Problems](LeetCode/README.md)
     * [5 Longest Palindromic Substring](LeetCode/5-Longest-Palindromic-Substring.md)
+    * [35 Search Insert Position](LeetCode/35-Search-Insert-Position.md)
     * [72 Edit Distance](LeetCode/72-Edit-Distance.md)
     * [96 Unique Binary Search Trees](LeetCode/96-Unique-Binary-Search-Trees.md)
     * [115 Distinct Subsequences](LeetCode/115-Distinct-Subsequences.md)
