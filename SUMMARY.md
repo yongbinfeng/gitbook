@@ -11,6 +11,7 @@
     * [115 Distinct Subsequences](LeetCode/115-Distinct-Subsequences.md)
     * [121 122 123 188 309 714 Stocks Problems.md](LeetCode/121-122-123-188-309-714-Stocks-Problems.md)
     * [153 Find Minimum in Rotated Sorted Array](LeetCode/153-Find-Minimum-in-Rotated-Sorted-Array.md)
+    * [154 Find Minimum in Rotated Sorted Array II](154-Find-Minimum-in-Rotated-Sorted-Array-II.md)
     * [198 House Robber](LeetCode/198-House-Robber.md)
     * [213 House Robber II](LeetCode/213-House-Robber-II.md)
     * [278 First Bad Version](LeetCode/278-First-Bad-Version.md)
