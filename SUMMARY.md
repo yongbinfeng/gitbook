@@ -4,6 +4,7 @@
 
 * [LeetCode Problems](LeetCode/README.md)
     * [5 Longest Palindromic Substring](LeetCode/5-Longest-Palindromic-Substring.md)
+    * [33 Search in Rotated Sorted Array](LeetCode/33-Search-in-Rotated-Sorted-Array.md)
     * [35 Search Insert Position](LeetCode/35-Search-Insert-Position.md)
     * [72 Edit Distance](LeetCode/72-Edit-Distance.md)
     * [74 Search a 2D Matrix](LeetCode/74-Search-a-2D-Matrix.md)
