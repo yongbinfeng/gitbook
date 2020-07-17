@@ -8,6 +8,7 @@
     * [35 Search Insert Position](LeetCode/35-Search-Insert-Position.md)
     * [72 Edit Distance](LeetCode/72-Edit-Distance.md)
     * [74 Search a 2D Matrix](LeetCode/74-Search-a-2D-Matrix.md)
+    * [81 Search in Rotated Sorted Array II](LeetCode/81-Search-in-Rotated-Sorted-Array-II.md)
     * [96 Unique Binary Search Trees](LeetCode/96-Unique-Binary-Search-Trees.md)
     * [115 Distinct Subsequences](LeetCode/115-Distinct-Subsequences.md)
     * [121 122 123 188 309 714 Stocks Problems.md](LeetCode/121-122-123-188-309-714-Stocks-Problems.md)
