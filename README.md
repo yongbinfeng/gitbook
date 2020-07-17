@@ -21,8 +21,6 @@ Github repo link:
 
 [https://github.com/yongbinfeng/gitbook](https://github.com/yongbinfeng/gitbook)
 
-Issues and PRs are of course more than welcome :)
-
 ## Short Names:
 
 Summary of some short names used in contents
