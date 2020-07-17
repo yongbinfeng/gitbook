@@ -12,6 +12,7 @@
     * [121 122 123 188 309 714 Stocks Problems.md](LeetCode/121-122-123-188-309-714-Stocks-Problems.md)
     * [198 House Robber](LeetCode/198-House-Robber.md)
     * [213 House Robber II](LeetCode/213-House-Robber-II.md)
+    * [278 First Bad Version](LeetCode/278-First-Bad-Version.md)
     * [312 Burst Balloons](LeetCode/312-Burst-Balloons.md)
     * [337 House Robber III](LeetCode/337-House-Robber-III.md)
     * [377 Combination Sum IV](LeetCode/377-combination-sum-iv.md)
