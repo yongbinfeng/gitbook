@@ -8,6 +8,7 @@
     * [35 Search Insert Position](LeetCode/35-Search-Insert-Position.md)
     * [72 Edit Distance](LeetCode/72-Edit-Distance.md)
     * [74 Search a 2D Matrix](LeetCode/74-Search-a-2D-Matrix.md)
+    * [79 Word Search](LeetCode/79-Word-Search.md)
     * [81 Search in Rotated Sorted Array II](LeetCode/81-Search-in-Rotated-Sorted-Array-II.md)
     * [96 Unique Binary Search Trees](LeetCode/96-Unique-Binary-Search-Trees.md)
     * [115 Distinct Subsequences](LeetCode/115-Distinct-Subsequences.md)
@@ -51,3 +52,4 @@
     * [07 重建二叉树](Jian-Zhi-Offer/07.md)
     * [09 利用两个栈实现队列](Jian-Zhi-Offer/09.md)
     * [11 旋转数组的最小数字](Jian-Zhi-Offer/11.md)
+    * [12 矩阵中的路径](Jian-Zhi-Offer/12.md)
