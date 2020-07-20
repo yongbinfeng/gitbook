@@ -20,6 +20,7 @@
     * [278 First Bad Version](LeetCode/278-First-Bad-Version.md)
     * [312 Burst Balloons](LeetCode/312-Burst-Balloons.md)
     * [337 House Robber III](LeetCode/337-House-Robber-III.md)
+    * [343 Integer Break](LeetCode/343-Integer-Break.md)
     * [377 Combination Sum IV](LeetCode/377-combination-sum-iv.md)
     * [416 Partition Equal Subset Sum](LeetCode/416-partition-equal-subset-sum.md)
     * [494 Target Sum](LeetCode/494-target-sum.md)
@@ -54,3 +55,4 @@
     * [11 旋转数组的最小数字](Jian-Zhi-Offer/11.md)
     * [12 矩阵中的路径](Jian-Zhi-Offer/12.md)
     * [13 机器人的运动范围](Jian-Zhi-Offer/13.md)
+    * [14 剪绳子](Jian-Zhi-Offer/14.md)
