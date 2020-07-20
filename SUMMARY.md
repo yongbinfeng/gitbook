@@ -6,6 +6,7 @@
     * [5 Longest Palindromic Substring](LeetCode/5-Longest-Palindromic-Substring.md)
     * [33 Search in Rotated Sorted Array](LeetCode/33-Search-in-Rotated-Sorted-Array.md)
     * [35 Search Insert Position](LeetCode/35-Search-Insert-Position.md)
+    * [50 Pow x n](LeetCode/50-Pow-x-n.md)
     * [72 Edit Distance](LeetCode/72-Edit-Distance.md)
     * [74 Search a 2D Matrix](LeetCode/74-Search-a-2D-Matrix.md)
     * [79 Word Search](LeetCode/79-Word-Search.md)
@@ -58,3 +59,4 @@
     * [13 机器人的运动范围](Jian-Zhi-Offer/13.md)
     * [14 剪绳子](Jian-Zhi-Offer/14.md)
     * [15 二进制中1的个数](Jian-Zhi-Offer/15.md)
+    * [16 数值的整数次方](Jian-Zhi-Offer/16.md)
