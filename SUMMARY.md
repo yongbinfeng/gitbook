@@ -18,6 +18,7 @@
     * [154 Find Minimum in Rotated Sorted Array II](LeetCode/154-Find-Minimum-in-Rotated-Sorted-Array-II.md)
     * [191 Number of 1 Bits](LeetCode/191-Number-of-1-Bits.md)
     * [198 House Robber](LeetCode/198-House-Robber.md)
+    * [203 Remove Linked List Elements](LeetCode/203-Remove-Linked-List-Elements.md)
     * [213 House Robber II](LeetCode/213-House-Robber-II.md)
     * [278 First Bad Version](LeetCode/278-First-Bad-Version.md)
     * [312 Burst Balloons](LeetCode/312-Burst-Balloons.md)
@@ -60,3 +61,4 @@
     * [14 剪绳子](Jian-Zhi-Offer/14.md)
     * [15 二进制中1的个数](Jian-Zhi-Offer/15.md)
     * [16 数值的整数次方](Jian-Zhi-Offer/16.md)
+    * [18 删除链表的节点](Jian-Zhi-Offer/18.md)
