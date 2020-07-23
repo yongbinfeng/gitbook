@@ -12,6 +12,7 @@
     * [74 Search a 2D Matrix](LeetCode/74-Search-a-2D-Matrix.md)
     * [79 Word Search](LeetCode/79-Word-Search.md)
     * [81 Search in Rotated Sorted Array II](LeetCode/81-Search-in-Rotated-Sorted-Array-II.md)
+    * [82 83 Remove Duplicates from Sorted List](LeetCode/82-83-Remove-Duplicates-from-Sorted-List.md)
     * [96 Unique Binary Search Trees](LeetCode/96-Unique-Binary-Search-Trees.md)
     * [115 Distinct Subsequences](LeetCode/115-Distinct-Subsequences.md)
     * [121 122 123 188 309 714 Stocks Problems.md](LeetCode/121-122-123-188-309-714-Stocks-Problems.md)
