@@ -5,6 +5,7 @@
 * [LeetCode Problems](LeetCode/README.md)
     * [5 Longest Palindromic Substring](LeetCode/5-Longest-Palindromic-Substring.md)
     * [10 Regular Expression Matching](LeetCode/10-Regular-Expression-Matching.md)
+    * [21 Merge Two Sorted Lists](LeetCode/21-Merge-Two-Sorted-Lists.md)
     * [33 Search in Rotated Sorted Array](LeetCode/33-Search-in-Rotated-Sorted-Array.md)
     * [35 Search Insert Position](LeetCode/35-Search-Insert-Position.md)
     * [50 Pow x n](LeetCode/50-Pow-x-n.md)
