@@ -14,6 +14,7 @@
     * [79 Word Search](LeetCode/79-Word-Search.md)
     * [81 Search in Rotated Sorted Array II](LeetCode/81-Search-in-Rotated-Sorted-Array-II.md)
     * [82 83 Remove Duplicates from Sorted List](LeetCode/82-83-Remove-Duplicates-from-Sorted-List.md)
+    * [86 Partition List](LeetCode/86-Partition-List.md)
     * [92 Reverse Linked List II](LeetCode/92-Reverse-Linked-List-II.md)
     * [96 Unique Binary Search Trees](LeetCode/96-Unique-Binary-Search-Trees.md)
     * [115 Distinct Subsequences](LeetCode/115-Distinct-Subsequences.md)
