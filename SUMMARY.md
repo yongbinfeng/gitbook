@@ -74,3 +74,4 @@
     * [16 数值的整数次方](Jian-Zhi-Offer/16.md)
     * [18 删除链表的节点](Jian-Zhi-Offer/18.md)
     * [19 正则表达式匹配](Jian-Zhi-Offer/19.md)
+    * [22 24 25 链表](Jian-Zhi-Offer/22-24-25.md)
