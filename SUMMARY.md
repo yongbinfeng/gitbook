@@ -19,6 +19,7 @@
     * [96 Unique Binary Search Trees](LeetCode/96-Unique-Binary-Search-Trees.md)
     * [115 Distinct Subsequences](LeetCode/115-Distinct-Subsequences.md)
     * [121 122 123 188 309 714 Stocks Problems.md](LeetCode/121-122-123-188-309-714-Stocks-Problems.md)
+    * [138 Copy List with Random Pointer](LeetCode/138-Copy-List-with-Random-Pointer.md)
     * [141 142 Linked List Cycle](LeetCode/141-142-Linked-List-Cycle.md)
     * [143 Reorder List](LeetCode/143-Reorder-List.md)
     * [148 Sort List](LeetCode/148-Sort-List.md)
